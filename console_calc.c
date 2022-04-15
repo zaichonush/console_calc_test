@@ -47,7 +47,6 @@ Write your code in this editor and press "Run" button to compile and execute it.
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-#include <conio.h>
 
 #define INPUT_LENGTH 10 // mod(11111), sqrt(1111)
 
