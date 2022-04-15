@@ -75,7 +75,7 @@ int main()
 // потім треба буде зациклить 
     while ( continue_operation )  
     {
-        printf("Please, enter expression (< 4-digit number >< +,-,*,/,%,^ >< 4-digit number >)   \n");
+        printf("Please, enter expression (< 4-digit number >< +,-,*,/,^ >< 4-digit number >)   \n");
         printf("or mod(< 5-digit number >)  \n");
         printf("or sqrt(< 4-digit number >)  \n");
         printf("---> ");
